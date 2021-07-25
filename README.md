@@ -1,0 +1,2 @@
+# Wine Quality Prediction using Random Forest Classifier
+This project aims to determine which features are the best quality red wine indicator and generate insights into each of these factors to our model red wine quality. At the end, I build a predictive system to predict the quality of red wine. I collected the dataset from Kaggle. I explore the data with pandas, numpy, matplotlib and seaborn, make predictions using scikit-learn and eveluated using Random Forest Classifier.
